@@ -5,6 +5,4 @@ attr_accessor :title, :author
     @title = title
   end
 
-
-
 end
